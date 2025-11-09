@@ -1,0 +1,5 @@
+{
+  "name": "EduChain Time Credits",
+  "description": "A blockchain-based web application where students earn Time Credits for verified educational and social activities. Students can redeem credits for rewards, participate in quizzes, borrow from a digital library, and try their luck with a bonus spin wheel.",
+  "requestFramePermissions": []
+}
