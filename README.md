@@ -1,20 +1,26 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+working ::-
 
-# Run and deploy your AI Studio app
-
-This contains everything you need to run your app locally.
-
-View your app in AI Studio: https://ai.studio/apps/drive/1kXenv-2wJgzfUe7eb50ySmYzEPfCwHis
-
-## Run Locally
-
-**Prerequisites:**  Node.js
+“Time Credit to Reward” is a blockchain-powered educational platform that rewards students for their learning efforts and contributions.
+Students earn Time Credits through academic achievements, peer learning, innovation, and community work.
+These credits can be redeemed for courses, certificates, scholarships, or event passes.
+A built-in Library System allows students to borrow books using their earned credits, ensuring fair tracking through blockchain.
+The exciting Spin Wheel feature lets users win bonus credits with accurate and smooth animations.
+A Quiz Zone offers engaging quizzes across academic, mythological, historical, and current topics, rewarding correct answers.
+The Dynamic Header shows real-time user info — name, role, and credit balance — for a personalized experience.
+Faculty can manage quizzes, monitor student progress, and ensure transparency.
+Overall, it’s a fun, secure, and motivating platform that connects learning with real rewards.
 
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+
+description ::-
+
+Time Credit to Reward is a blockchain-based app where students earn Time Credits for academics, projects, volunteering, and quizzes. All activities and points are securely recorded on the blockchain, ensuring transparency and authenticity. Students can redeem credits for courses, certificates, events, or library access, while faculty can manage and track rewards.
+
+team members ::-
+
+Pushpa changani
+Vaishali Chaudhri
+Naisargi Ranpariya
+Tharini Sharma
+
+
